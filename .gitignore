@@ -1,0 +1,5 @@
+*.ali
+*.db-wal
+*.db-shm
+*.o
+
