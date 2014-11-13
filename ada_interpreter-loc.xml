@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 6" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 11" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 38" >
+      <vfs_file>C:\GNAT\2014\lib\gcc\i686-pc-mingw32\4.7.4\adainclude\a-stmaco.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\statements.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 11" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\boolean_expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 11" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\features.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\features.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\statements.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\statements.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\features.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\features.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\tokens.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 10" >
+      <vfs_file>C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\tokens.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\tokens.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\lexical_analyzers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\lexical_analyzers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\tokens.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\statements.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\statements.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\expressions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\statements.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_file>C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 6">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 11">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 38">
+      <vfs_file >C:\GNAT\2014\lib\gcc\i686-pc-mingw32\4.7.4\adainclude\a-stmaco.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\statements.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 11">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\boolean_expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\expressions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 11">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\features.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\features.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\parsers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\expressions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\statements.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\statements.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\expressions.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\features.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\features.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\tokens.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 10">
+      <vfs_file >C:\Users\thamilton\Project_3\interpreter.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\tokens.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\tokens.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\lexical_analyzers.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\lexical_analyzers.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_file >C:\Users\thamilton\Project_3\tokens.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

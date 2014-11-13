@@ -1,0 +1,27 @@
+knife vc login
+knife vc org list
+knife vc org show productdevelopment
+knife vc catalog show QA
+knife vc catalog item show "Standard Template" --catalog QA
+knife vc vdc show "DevQA_DomainAccess - VDC"
+knife vc vapp start 37c7f04c-05ab-4ccc9f7a-322c7fa5acc8
+knife vc vapp create "DevQA_DomainAccess - VDC" knife_clone "Standard Template" ae018e7c-8919-4583-86a2-e36b556a10b2
+knife vc vapp show 30319d3a-78fe-4db0-8cb4-f32db1de3ee3
+knife vc vapp network external add 30319d3a-78fe-4db0-8cb4-f32db1de3ee3 "DomainConnected VDC"
+knife vc vapp network external delete 30319d3a-78fe-4db0-8cb4-f32db1de3ee3 "DomainAccess VDC"
+knife vc vapp network internal add test_vapp4 INT_NET
+knife vc vapp network internal delete test_vapp4 INT_NET
+knife vc vapp clone "DevQA_DomainAccess" knife_clone cloned
+knife vc vm show 666efa66-6253-4cb2-92a4-bf53eeb897b0 --vapp vApp_thamilton_11
+knife vc vm set info --name knife-windows --vapp vApp_thamilton_11 35769afd-9b48-41ff-a563-7e0df9bfa000
+knife vc vm set info --ram 2048 --vapp vApp_thamilton_11 35769afd-9b48-41ff-a563-7e0df9bfa000
+knife vc vm set info --cpu 2 --vapp vApp_thamilton_11 35769afd-9b48-41ff-a563-7e0df9bfa000
+knife vc vm set disks --add --disk-size 3000 --vapp vApp_thamilton_11 35769afd-9b48-41ff-a563-7e0df9bfa000
+knife vc vm set disks --disk-name "Hard disk 2" --disk-size 3500 --vapp vApp_thamilton_11 35769afd-9b48-41ff-a563-7e0df9bfa000
+knife vc vm set disks --disk-name "Hard disk 2" --delete --vapp vApp_test vm-test
+knife vc vm network edit 35769afd-9b48-41ff-a563-7e0df9bfa000 "DomainConnected VDC"
+knife vc vm network edit 35769afd-9b48-41ff-a563-7e0df9bfa000 "DomainConnected VDC" --ip-allocation-mode DHCP
+knife vc vm network delete 35769afd-9b48-41ff-a563-7e0df9bfa000 "DomainConnected VDC"
+knife vc vm config guest test_vm --vapp test_vapp1 --script guest_script.txt
+knife vc vapp bootstrap test_vapp
+knife vc vm bootstrap 6475183a-b7ee-4a41-ac98-2c19e1fc6552 --vapp QA_chef
