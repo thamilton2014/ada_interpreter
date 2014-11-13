@@ -17,7 +17,7 @@ package body Parsers is
    procedure get_loop_statement(p: in out Parser; s_access: out Statement_Access);
    procedure get_arithmetic_operator(p: in out Parser; a_operator: out Arithmetic_Operator);
    procedure get_token(p: in out Parser; tok_type: in Token_Type);
-   -- Create get_id method
+   procedure get_id(p: in out Parser; id_access: out Id);
 
    -------------------
    -- create_parser --
@@ -35,9 +35,10 @@ package body Parsers is
    procedure parse (p: in out Parser; f: out feature) is
       tok : Token;
       com : Compound;
+      id_access : Id;
    begin
       get_token(p, FEATURE_TOK);
-      get_token(p, ID_TOK);
+      get_id(p, id_access);
       get_token(p, IS_TOK);
       get_token(p, DO_TOK);
       get_compound(p, com);
@@ -248,6 +249,17 @@ package body Parsers is
          raise parser_exception with Token_Type'Image(tok_type) & " expected at row " & Positive'Image(get_row_number(tok)) & " and column " & Positive'Image(get_column_number(tok));
       end if;
    end match;
+
+   ------------
+   -- get_id --
+   ------------
+   procedure get_id(p: in out Parser; id_access: out Id) is
+      tok : Token;
+   begin
+      get_next_token(p.lex, tok);
+      match(tok, ID_TOK);
+      id_access := create_id(to_string(get_lexeme(tok))(1));
+   end get_id;
 
    ---------------
    -- get_token --
