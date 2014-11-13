@@ -2,4 +2,8 @@
 *.db-wal
 *.db-shm
 *.o
-
+*.xml
+*.gpr
+*.db
+*.exe
+*.txt
